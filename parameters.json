@@ -3,6 +3,7 @@
 
     ],
     "exclude": [
-        "_relic"
+        "_relic",
+        "_scene"
     ]
 }
